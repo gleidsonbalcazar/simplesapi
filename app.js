@@ -6,7 +6,7 @@ var app = express();
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}))
 app.use(cors())
-app.use(express.static('assets'))
+app.use(express.static(__dirname + 'assets'))
 
 var routes = require('./routes/routes.js')(app);
 
