@@ -8,20 +8,20 @@ var appRouter = function(app){
     } 
 
     var imagens = [
-      "assets/photos/2.jpg",
-      "assets/photos/1.jpg",
-      "assets/photos/3.jpg",
-      "assets/photos/4.jpg",
-      "assets/photos/5.jpg",
-      "assets/photos/6.jpg",
-      "assets/photos/7.jpg",
-      "assets/photos/8.jpg",
-      "assets/photos/9.jpg",
-      "assets/photos/10.jpg",
-      "assets/photos/11.jpg",
-      "assets/photos/12.jpg",
-      "assets/photos/13.jpg",
-      "assets/photos/14.jpg"
+      "images/photos/2.jpg",
+      "images/photos/1.jpg",
+      "images/photos/3.jpg",
+      "images/photos/4.jpg",
+      "images/photos/5.jpg",
+      "images/photos/6.jpg",
+      "images/photos/7.jpg",
+      "images/photos/8.jpg",
+      "images/photos/9.jpg",
+      "images/photos/10.jpg",
+      "images/photos/11.jpg",
+      "images/photos/12.jpg",
+      "images/photos/13.jpg",
+      "images/photos/14.jpg"
 
     ]
 
