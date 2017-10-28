@@ -9,7 +9,6 @@ var appRouter = function(app){
 
     var imagens = [
       "images/photos/2.jpg",
-      "images/photos/1.jpg",
       "images/photos/3.jpg",
       "images/photos/4.jpg",
       "images/photos/5.jpg",
